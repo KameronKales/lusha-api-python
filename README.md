@@ -22,7 +22,7 @@ python api.py
 
 To register for an API key with Lusha do the following
 
-1. Go to * [Lusha API Registration](https://www.lusha.co/api_register) and fill in your information like I have shown
+1. Go to [Lusha API Registration](https://www.lusha.co/api_register) and fill in your information like I have shown
 ![Step1](/pictures/step1.png)
 
 2. Confirm your email
@@ -40,6 +40,7 @@ To register for an API key with Lusha do the following
 
 7. Change the domain to whatever company you would like to look up, I listed google as an example.
 8. Save the code. Congrats, you have added your API key.
+9. Navigate to the Installation section to continue this process.
 
 ## Built With
 
@@ -52,5 +53,5 @@ To register for an API key with Lusha do the following
 
 ## Acknowledgments
 
-* Special thanks to [Lusha](http://www.lusha.co) for providng an easy to work with API
+* Special thanks to [Lusha](http://www.lusha.co) for providing an easy to work with API
 
