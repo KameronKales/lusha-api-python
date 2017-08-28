@@ -1,6 +1,6 @@
 # Lusha API Request Module with Python
 
-Tutorial on registering with Lusha and using their API to obtain company information. View on [YouTube](https://youtu.be/kIAVs7wJXpQ)
+Tutorial on registering with Lusha and using their API to obtain company information. View on [YouTube](https://youtu.be/kIAVs7wJXpQ)....this link is not correct yet. I will record an explainer video this week and update :)
 
 ## Getting Started
 
